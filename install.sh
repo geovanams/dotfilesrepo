@@ -9,7 +9,7 @@ export VAR_NAME="oi"
 
 # Run project-specific setup commands
 # e.g., npm install, pip install -r requirements.txt, etc.
-npm install
+#npm install
 # or
 # pip install -r requirements.txt
 
